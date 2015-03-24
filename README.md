@@ -11,6 +11,7 @@ Open Source,DIY, easy to assemble, peristaltic dosing pumps, with parts soruced 
 
 Originally designed to be controlled by an Aquarium Controllier, like the Invent Marine Reefmate.
 
+<img src="https://farm6.staticflickr.com/5595/14860040081_29afbc49b2.jpg"/>
 
 ### Features
 1. 4 pumps
